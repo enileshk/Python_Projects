@@ -6,7 +6,7 @@ import math
 
 
 #path=r"C:\Users\inile\PyCharmMiscProject\medical_examination.csv.txt"
-path=r".\medical_examination.csv.txt"
+path=r"medical_examination.csv"
 
 # 1
 df = pd.read_csv(path)
